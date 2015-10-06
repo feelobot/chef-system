@@ -36,4 +36,4 @@ e.g.
 
 License and Authors
 -------------------
-Authors: TODO: List authors
+Authors: Felix Rodriguez @feelobot
