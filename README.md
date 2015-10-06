@@ -11,6 +11,7 @@ Attributes
 Usage
 -----
 #### system::default
+Modify files/default/system.conf to connect to the server/port you need (defualt is localhost:8125)
 
 Just include `system` in your node's `run_list`:
 
